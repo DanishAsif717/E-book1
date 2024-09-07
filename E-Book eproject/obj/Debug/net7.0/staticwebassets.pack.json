@@ -553,6 +553,10 @@
       "PackagePath": "staticwebassets\\Admin\\dist\\scss\\widgets\\widgets.scss"
     },
     {
+      "Id": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\wwwroot\\Uploads\\243207123202-webpage.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\243207123202-webpage.PNG"
+    },
+    {
       "Id": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\wwwroot\\User\\assets\\css\\all.css",
       "PackagePath": "staticwebassets\\User\\assets\\css\\all.css"
     },

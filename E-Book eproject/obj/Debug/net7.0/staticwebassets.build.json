@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z1013Pu2+S7NNP2/Q2TlbkTUXfHXk4dQZkY24bj4Tvs=",
+  "Hash": "z4UD4mq7J2EiP9uOAEeK4FaIvYKT9zVVOl1bFHSJFqE=",
   "Source": "E-Book eproject",
   "BasePath": "_content/E-Book eproject",
   "Mode": "Default",
@@ -30530,6 +30530,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\wwwroot\\Uploads\\243207123202-webpage.PNG",
+      "SourceId": "E-Book eproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\wwwroot\\",
+      "BasePath": "_content/E-Book eproject",
+      "RelativePath": "Uploads/243207123202-webpage.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\243207123202-webpage.PNG"
     },
     {
       "Identity": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\wwwroot\\User\\assets\\css\\all.css",
