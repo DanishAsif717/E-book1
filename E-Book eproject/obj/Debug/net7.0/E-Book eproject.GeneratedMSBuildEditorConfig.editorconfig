@@ -9,61 +9,103 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Book_eproject
 build_property.RootNamespace = E_Book_eproject
-build_property.ProjectDir = C:\Users\asp\source\repos\E-Book eproject\E-Book eproject\
+build_property.ProjectDir = C:\Users\Danish Muslim\source\repos\E-book1\E-Book eproject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\asp\source\repos\E-Book eproject\E-Book eproject
+build_property.MSBuildProjectDirectory = C:\Users\Danish Muslim\source\repos\E-book1\E-Book eproject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Admin/Index.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Category/create.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Book/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Book/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Book/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Book/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Book/productdetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xwcm9kdWN0ZGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Category/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcY3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Category/Delete.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Category/Details.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Category/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Category/Index.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Home/Index.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/CDandDvd/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0RhbmREdmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/CDandDvd/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0RhbmREdmRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/CDandDvd/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0RhbmREdmRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/CDandDvd/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0RhbmREdmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Home/Privacy.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Shared/Admin.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Home/shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Shared/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Shared/Error.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/_ViewImports.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/_ViewStart.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/asp/source/repos/E-Book eproject/E-Book eproject/Views/Shared/_Layout.cshtml]
+[C:/Users/Danish Muslim/source/repos/E-book1/E-Book eproject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cnen5l3wz1

@@ -1377,10 +1377,10 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.Tools/7.0.19": {
+      "Microsoft.EntityFrameworkCore.Tools/7.0.20": {
         "type": "package",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "7.0.19"
+          "Microsoft.EntityFrameworkCore.Design": "7.0.20"
         },
         "compile": {
           "lib/net6.0/_._": {}
@@ -5629,17 +5629,17 @@
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Tools/7.0.19": {
-      "sha512": "DKtjl+fPlO0xNaxAqL51mAhdV1YV83WSyEz7K1Hw9kvrQeEfpfmvJc6krqruN7CG0PJAVx/ot6unzfpHNKDjNQ==",
+    "Microsoft.EntityFrameworkCore.Tools/7.0.20": {
+      "sha512": "tu4A/gRuWxAg0c+7i+SzP5VYDwPUTgcND6ymNxwgcLBXr24tG16sNqUn7/fpMhBTeXIpceHu5DgQ2RJTtwoJag==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/7.0.19",
+      "path": "microsoft.entityframeworkcore.tools/7.0.20",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/net6.0/_._",
-        "microsoft.entityframeworkcore.tools.7.0.19.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.7.0.20.nupkg.sha512",
         "microsoft.entityframeworkcore.tools.nuspec",
         "tools/EntityFrameworkCore.PS2.psd1",
         "tools/EntityFrameworkCore.PS2.psm1",
@@ -11288,31 +11288,24 @@
     "net7.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.20",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.19",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.19",
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.20",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 7.0.12"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Danish Muslim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\E-Book eproject.csproj",
+      "projectUniqueName": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
       "projectName": "E-Book eproject",
-      "projectPath": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\E-Book eproject.csproj",
-      "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\obj\\",
+      "projectPath": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
+      "packagesPath": "C:\\Users\\Danish Muslim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\asp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Danish Muslim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11320,6 +11313,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11332,6 +11326,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11352,7 +11351,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[7.0.19, )"
+            "version": "[7.0.20, )"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
@@ -11378,7 +11377,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

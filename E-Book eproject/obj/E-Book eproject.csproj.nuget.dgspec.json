@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\E-Book eproject.csproj": {}
+    "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\E-Book eproject.csproj": {
+    "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\E-Book eproject.csproj",
+        "projectUniqueName": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
         "projectName": "E-Book eproject",
-        "projectPath": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\E-Book eproject.csproj",
-        "packagesPath": "C:\\Users\\asp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asp\\source\\repos\\E-Book eproject\\E-Book eproject\\obj\\",
+        "projectPath": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
+        "packagesPath": "C:\\Users\\Danish Muslim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\asp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Danish Muslim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +60,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.19, )"
+              "version": "[7.0.20, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -85,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

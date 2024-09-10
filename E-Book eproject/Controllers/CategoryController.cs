@@ -39,8 +39,9 @@ namespace E_Book_eproject.Controllers
 			db.Categories.Add(cat);
 			db.SaveChanges();
 
+            TempData["SuccessMessage"] = "Category successfully inserted!";
 
-			return RedirectToAction("Index");
+            return RedirectToAction("Index");
 		}
 
 		public IActionResult Delete(int Id)
@@ -52,8 +53,19 @@ namespace E_Book_eproject.Controllers
 		[HttpPost]
         public IActionResult Delete(Category cat)
         {
-           db.Categories.Remove(cat);
-			db.SaveChanges();
+           
+            if (cat != null)
+            {
+                db.Categories.Remove(cat);
+                db.SaveChanges();
+
+                // Success message for delete operation
+                TempData["DeleteMessage"] = "Record successfully deleted!";
+            }
+            else
+            {
+                TempData["DeleteMessage"] = "Record not found!";
+            }
             return RedirectToAction("index");
         }
 
