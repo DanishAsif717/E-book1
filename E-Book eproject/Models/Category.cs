@@ -9,12 +9,6 @@ public partial class Category
 
     public string Name { get; set; } = null!;
 
-    public string Description { get; set; } = null!;
-
-    public string Image { get; set; } = null!;
-
-    public string Code { get; set; } = null!;
-
     public DateTime CreatedBy { get; set; }
 
     public virtual ICollection<Book> Books { get; set; } = new List<Book>();
@@ -22,4 +16,6 @@ public partial class Category
     public virtual ICollection<CdandDvd> CdandDvds { get; set; } = new List<CdandDvd>();
 
     public virtual ICollection<Stationary> Stationaries { get; set; } = new List<Stationary>();
+
+    public virtual ICollection<SubCategory> SubCategories { get; set; } = new List<SubCategory>();
 }

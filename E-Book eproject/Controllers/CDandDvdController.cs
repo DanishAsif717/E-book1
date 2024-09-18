@@ -20,6 +20,8 @@ namespace E_Book_eproject.Controllers
         {
             ViewBag.CatId = new SelectList(db.Categories, "Id", "Name");
 
+            ViewBag.SubId = new SelectList(Enumerable.Empty<SelectListItem>(), "Id", "Name"); // Empty initially
+
             return View();
         }
 

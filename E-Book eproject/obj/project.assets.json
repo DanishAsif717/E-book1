@@ -11298,11 +11298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
+      "projectUniqueName": "D:\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
       "projectName": "E-Book eproject",
-      "projectPath": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
+      "projectPath": "D:\\E-book1\\E-Book eproject\\E-Book eproject.csproj",
       "packagesPath": "C:\\Users\\Danish Muslim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danish Muslim\\source\\repos\\E-book1\\E-Book eproject\\obj\\",
+      "outputPath": "D:\\E-book1\\E-Book eproject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danish Muslim\\AppData\\Roaming\\NuGet\\NuGet.Config",

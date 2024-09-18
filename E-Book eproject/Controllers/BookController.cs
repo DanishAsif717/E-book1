@@ -23,13 +23,23 @@ namespace E_Book_eproject.Controllers
              var detail =data.FirstOrDefault(b => b.Id == id);
             return View(detail);
         }
-
-        // GET: BookController/Create
         public ActionResult Create()
         {
+       
             ViewBag.CatId = new SelectList(db.Categories, "Id", "Name");
 
+            ViewBag.SubId = new SelectList(Enumerable.Empty<SelectListItem>(), "Id", "Name"); // Empty initially
+
             return View();
+        }
+        [HttpGet]
+        public JsonResult GetSubCategories(int catId)
+        {
+            var subCategories = db.SubCategories
+                                        .Where(sc => sc.CatId == catId)
+                                        .Select(sc => new { sc.Id, sc.Name })
+                                        .ToList();
+            return Json(subCategories);
         }
 
         // POST: BookController/Create

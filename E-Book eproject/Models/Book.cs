@@ -21,7 +21,11 @@ public partial class Book
 
     public int CatId { get; set; }
 
+    public int SubId { get; set; }
+
     public DateTime CreatedBy { get; set; }
 
     public virtual Category Cat { get; set; } = null!;
+
+    public virtual SubCategory Sub { get; set; } = null!;
 }

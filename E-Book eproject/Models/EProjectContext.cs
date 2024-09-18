@@ -41,6 +41,8 @@ public partial class EProjectContext : DbContext
 
     public virtual DbSet<Stationary> Stationaries { get; set; }
 
+    public virtual DbSet<SubCategory> SubCategories { get; set; }
+
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -73,7 +75,7 @@ public partial class EProjectContext : DbContext
 
         modelBuilder.Entity<Book>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Book__3214EC07FE319772");
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC0704D2DF8B");
 
             entity.ToTable("Book");
 
@@ -88,32 +90,35 @@ public partial class EProjectContext : DbContext
             entity.Property(e => e.Lounch).HasColumnName("lounch");
             entity.Property(e => e.Name).HasColumnName("name");
             entity.Property(e => e.Price).HasColumnName("price");
+            entity.Property(e => e.SubId).HasColumnName("sub_id");
 
             entity.HasOne(d => d.Cat).WithMany(p => p.Books)
                 .HasForeignKey(d => d.CatId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Book_Tocategory");
+
+            entity.HasOne(d => d.Sub).WithMany(p => p.Books)
+                .HasForeignKey(d => d.SubId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Book_ToSubcategory");
         });
 
         modelBuilder.Entity<Category>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__category__3214EC071770137C");
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC079D546D9F");
 
             entity.ToTable("category");
 
-            entity.Property(e => e.Code).HasColumnName("code");
             entity.Property(e => e.CreatedBy)
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("created_by");
-            entity.Property(e => e.Description).HasColumnName("description");
-            entity.Property(e => e.Image).HasColumnName("image ");
             entity.Property(e => e.Name).HasColumnName("name");
         });
 
         modelBuilder.Entity<CdandDvd>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__CdandDvd__3214EC076F4E7DE9");
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC07BC496814");
 
             entity.ToTable("CdandDvd");
 
@@ -128,11 +133,17 @@ public partial class EProjectContext : DbContext
             entity.Property(e => e.Lounch).HasColumnName("lounch");
             entity.Property(e => e.Name).HasColumnName("name");
             entity.Property(e => e.Price).HasColumnName("price");
+            entity.Property(e => e.SubId).HasColumnName("sub_id");
 
             entity.HasOne(d => d.Cat).WithMany(p => p.CdandDvds)
                 .HasForeignKey(d => d.CatId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_CdandDvd_Tocategory");
+
+            entity.HasOne(d => d.Sub).WithMany(p => p.CdandDvds)
+                .HasForeignKey(d => d.SubId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_CdandDvd_ToSubcategory");
         });
 
         modelBuilder.Entity<Customer>(entity =>
@@ -318,6 +329,27 @@ public partial class EProjectContext : DbContext
             entity.HasOne(d => d.Cat).WithMany(p => p.Stationaries)
                 .HasForeignKey(d => d.CatId)
                 .HasConstraintName("FK_stationary_ToCategory");
+        });
+
+        modelBuilder.Entity<SubCategory>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC07C2FFD13C");
+
+            entity.ToTable("SubCategory");
+
+            entity.Property(e => e.CatId).HasColumnName("cat_id");
+            entity.Property(e => e.Code).HasColumnName("code");
+            entity.Property(e => e.CreatedBy)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("created_by");
+            entity.Property(e => e.Description).HasColumnName("description");
+            entity.Property(e => e.Image).HasColumnName("image ");
+
+            entity.HasOne(d => d.Cat).WithMany(p => p.SubCategories)
+                .HasForeignKey(d => d.CatId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_SubCategory_ToCategory");
         });
 
         modelBuilder.Entity<User>(entity =>

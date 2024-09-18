@@ -16,15 +16,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Description)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Image)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Code)
-            </th>
+
             
             <th></th>
         </tr>
@@ -35,16 +27,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
-            <td>
-                    @Html.DisplayFor(modelItem => item.Description)
-            </td>
-            <td>
-                    <img src="@Html.DisplayFor(modelItem => item.Image)" width="100px" height="100px" />
-                
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Code)
-            </td>
+         
            
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

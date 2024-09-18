@@ -6,12 +6,10 @@
 }
 
 <h1>Create</h1>
-
-<h4>Book</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Store" enctype="multipart/form-data">
+        <form asp-action="store" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Author" class="control-label"></label>
@@ -40,12 +38,18 @@
             </div>
             <div class="form-group">
                 <label asp-for="Image" class="control-label"></label>
-                <input asp-for="Image" class="form-control"  type="file"/>
+                <input asp-for="Image" class="form-control" type="file" />
                 <span asp-validation-for="Image" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="CatId" class="control-label"></label>
-                <select asp-for="CatId" class ="form-control" asp-items="ViewBag.CatId"></select>
+                <select id="CategoryDropdown" asp-for="CatId" class="form-control" asp-items="ViewBag.CatId"></select>
+                <span asp-validation-for="CatId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SubId" class="control-label"></label>
+                <select id="SubCategoryDropdown" asp-for="SubId" class="form-control" asp-items="ViewBag.SubId"></select>
+                <span asp-validation-for="SubId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
@@ -58,3 +62,21 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#CategoryDropdown').change(function () {
+                var catId = $(this).val();
+                $('#SubCategoryDropdown').empty(); // Clear previous options
+                $('#SubCategoryDropdown').append('<option value="">Select SubCategory</option>');
+
+                if (catId) {
+                    $.getJSON('@Url.Action("GetSubCategories", "Book")', { catId: catId }, function (subCategories) {
+                        $.each(subCategories, function (index, subCategory) {
+                            $('#SubCategoryDropdown').append('<option value="' + subCategory.id + '">' + subCategory.name + '</option>');
+                        });
+                    });
+                }
+            });
+        });
+    </script>
