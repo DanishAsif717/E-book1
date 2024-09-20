@@ -15,8 +15,6 @@ public partial class EProjectContext : DbContext
     {
     }
 
-    public virtual DbSet<Admin> Admins { get; set; }
-
     public virtual DbSet<Book> Books { get; set; }
 
     public virtual DbSet<Category> Categories { get; set; }
@@ -51,28 +49,6 @@ public partial class EProjectContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Admin>(entity =>
-        {
-            entity.HasKey(e => e.AdminId).HasName("PK__Admin__719FE4E8F27DDD72");
-
-            entity.ToTable("Admin");
-
-            entity.HasIndex(e => e.Username, "UQ__Admin__536C85E4B8B7FF8D").IsUnique();
-
-            entity.HasIndex(e => e.Email, "UQ__Admin__A9D105340CFB66D4").IsUnique();
-
-            entity.Property(e => e.AdminId).HasColumnName("AdminID");
-            entity.Property(e => e.Email)
-                .HasMaxLength(255)
-                .IsUnicode(false);
-            entity.Property(e => e.PasswordHash)
-                .HasMaxLength(255)
-                .IsUnicode(false);
-            entity.Property(e => e.Username)
-                .HasMaxLength(50)
-                .IsUnicode(false);
-        });
-
         modelBuilder.Entity<Book>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC0704D2DF8B");
@@ -354,7 +330,7 @@ public partial class EProjectContext : DbContext
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__user__3214EC078985DC61");
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC07F7F8AE06");
 
             entity.ToTable("user");
 
@@ -367,6 +343,7 @@ public partial class EProjectContext : DbContext
             entity.Property(e => e.Image).HasColumnName("image");
             entity.Property(e => e.Name).HasColumnName("name");
             entity.Property(e => e.Password).HasColumnName("password");
+            entity.Property(e => e.Role).HasColumnName("role");
         });
 
         OnModelCreatingPartial(modelBuilder);

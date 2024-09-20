@@ -1,4 +1,22 @@
-﻿<!DOCTYPE html>
+﻿@using System.Security.Claims;
+@inject EProjectContext db;
+@{
+    var userId = User.Claims.FirstOrDefault(c => c.Type == ClaimTypes.Sid)?.Value;
+    var username = string.Empty;
+    var userimage = string.Empty;
+    if (!string.IsNullOrEmpty(userId))
+    {
+        int userIds = int.Parse(userId);  // Convert string to integer
+        var user = db.Users.FirstOrDefault(u => u.Id == userIds);  // Fetch the user from the database
+
+        if (user != null)
+        {
+            userimage = user.Image;
+            username = user.Name;  // Get the username
+        }
+    }
+}
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -295,10 +313,10 @@
                         <!-- User Profile -->
                         <!-- ============================================================== -->
                         <li class="nav-item dropdown u-pro">
-                            <a class="nav-link dropdown-toggle waves-effect waves-dark profile-pic" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="~/assets/images/users/1.jpg" alt="user" class=""> <span class="hidden-md-down">Mark &nbsp;<i class="fa fa-angle-down"></i></span> </a>
+                            <a class="nav-link dropdown-toggle waves-effect waves-dark profile-pic" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="@userimage" alt="user" class=""> <span class="hidden-md-down">@username &nbsp;<i class="fa fa-angle-down"></i></span> </a>
                             <div class="dropdown-menu dropdown-menu-right animated flipInY">
                                 <!-- text-->
-                                <a href="javascript:void(0)" class="dropdown-item"><i class="ti-user"></i> My Profile</a>
+                                <a asp-controller="Auth" asp-action="" class="dropdown-item"><i class="ti-user"></i> @userId My Profile</a>
                                 <!-- text-->
                                 <a href="javascript:void(0)" class="dropdown-item"><i class="ti-wallet"></i> My Balance</a>
                                 <!-- text-->
@@ -335,13 +353,13 @@
                 <nav class="sidebar-nav">
                     <ul id="sidebarnav">
                         <li class="user-pro">
-                            <a class="has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><img src="~/assets/images/users/1.jpg" alt="user-img" class="img-circle"><span class="hide-menu">Mark Jeckson</span></a>
+                            <a class="has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><img src="@userimage" alt="user-img" class="img-circle"><span class="hide-menu">@username</span></a>
                             <ul aria-expanded="false" class="collapse">
-                                <li><a href="javascript:void(0)"><i class="ti-user"></i> My Profile</a></li>
+                                <li><a asp-action="Profileupdate" asp-controller="Auth" asp-route-id="@userId"><i class="ti-user"></i> @userId  My Profile</a></li>
                                 <li><a href="javascript:void(0)"><i class="ti-wallet"></i> My Balance</a></li>
                                 <li><a href="javascript:void(0)"><i class="ti-email"></i> Inbox</a></li>
                                 <li><a href="javascript:void(0)"><i class="ti-settings"></i> Account Setting</a></li>
-                                <li><a href="javascript:void(0)"><i class="fa fa-power-off"></i> Logout</a></li>
+                                <li><a asp-controller="Auth" asp-action="Logout"><i class="fa fa-power-off"></i> Logout</a></li>
                             </ul>
                         </li>
                         <li class="nav-small-cap">--- PERSONAL</li>

@@ -553,6 +553,10 @@
       "PackagePath": "staticwebassets\\Admin\\dist\\scss\\widgets\\widgets.scss"
     },
     {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\20240920193035-308x147     2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\20240920193035-308x147     2.jpg"
+    },
+    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\240616050613-cd (1).jpg",
       "PackagePath": "staticwebassets\\Uploads\\240616050613-cd (1).jpg"
     },
@@ -565,6 +569,10 @@
       "PackagePath": "staticwebassets\\Uploads\\241008021040-blog 9.jpg"
     },
     {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\241119051156-FUEL.png",
+      "PackagePath": "staticwebassets\\Uploads\\241119051156-FUEL.png"
+    },
+    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\241407051427-blog 55.jpg",
       "PackagePath": "staticwebassets\\Uploads\\241407051427-blog 55.jpg"
     },
@@ -573,12 +581,28 @@
       "PackagePath": "staticwebassets\\Uploads\\241708041701-blog 8.jpg"
     },
     {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242220072258-2.png",
+      "PackagePath": "staticwebassets\\Uploads\\242220072258-2.png"
+    },
+    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242410042423-books.jfif",
       "PackagePath": "staticwebassets\\Uploads\\242410042423-books.jfif"
     },
     {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242418042433-sa (2).jpg",
       "PackagePath": "staticwebassets\\Uploads\\242418042433-sa (2).jpg"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242419072441-FUEL.png",
+      "PackagePath": "staticwebassets\\Uploads\\242419072441-FUEL.png"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242420072401-308x147     2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\242420072401-308x147     2.jpg"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242420072444-308x147     2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\242420072444-308x147     2.jpg"
     },
     {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\242518042503-sa (3).jpg",
@@ -621,8 +645,16 @@
       "PackagePath": "staticwebassets\\Uploads\\244107064155-blog7.jpg"
     },
     {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\245420035427-FUEL.png",
+      "PackagePath": "staticwebassets\\Uploads\\245420035427-FUEL.png"
+    },
+    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\245510035518-books.jfif",
       "PackagePath": "staticwebassets\\Uploads\\245510035518-books.jfif"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\245618045643-sa (1).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\245618045643-sa (1).jpg"
     },
     {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\User\\assets\\css\\all.css",
