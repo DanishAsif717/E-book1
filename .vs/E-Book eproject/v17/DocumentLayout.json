@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\E-book1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\auth\\profileupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\auth\\profileupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\stationary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\stationary\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\stationarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\stationarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\stationary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\stationary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\stationary\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\stationary\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Admin.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Shared\\Admin.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Shared\\Admin.cshtml",
               "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Shared\\Admin.cshtml",
               "RelativeToolTip": "E-Book eproject\\Views\\Shared\\Admin.cshtml",
-              "ViewState": "AQIAAFQBAAAAAAAAAIAwwGkBAABPAAAA",
+              "ViewState": "AQIAAGQBAAAAAAAAAAASwGYBAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T14:28:08.215Z",
+              "WhenOpened": "2024-09-20T16:09:58.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profileupdate.cshtml",
-              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Auth\\Profileupdate.cshtml",
-              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Auth\\Profileupdate.cshtml",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Auth\\Profileupdate.cshtml",
-              "RelativeToolTip": "E-Book eproject\\Views\\Auth\\Profileupdate.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB8AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T12:08:58.369Z",
+              "DocumentIndex": 3,
+              "Title": "Stationary.cs",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\Stationary.cs",
+              "RelativeDocumentMoniker": "E-Book eproject\\Models\\Stationary.cs",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\Stationary.cs",
+              "RelativeToolTip": "E-Book eproject\\Models\\Stationary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:09:20.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\AuthController.cs",
               "RelativeToolTip": "E-Book eproject\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAuwK8AAAAmAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAKsAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T10:43:52.649Z",
+              "WhenOpened": "2024-09-20T16:05:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Stationary\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Stationary\\Create.cshtml",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Stationary\\Create.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Stationary\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T15:57:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Stationary\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Stationary\\Index.cshtml",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Stationary\\Index.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Stationary\\Index.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAuwDQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T15:56:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StationaryController.cs",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\StationaryController.cs",
+              "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\StationaryController.cs",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\StationaryController.cs",
+              "RelativeToolTip": "E-Book eproject\\Controllers\\StationaryController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:51:11.546Z",
               "EditorCaption": ""
             }
           ]
