@@ -9,10 +9,6 @@ public partial class SubCategory
 
     public string? Name { get; set; }
 
-    public string Description { get; set; } = null!;
-
-    public string Image { get; set; } = null!;
-
     public string Code { get; set; } = null!;
 
     public int CatId { get; set; }
@@ -24,4 +20,6 @@ public partial class SubCategory
     public virtual Category Cat { get; set; } = null!;
 
     public virtual ICollection<CdandDvd> CdandDvds { get; set; } = new List<CdandDvd>();
+
+    public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }

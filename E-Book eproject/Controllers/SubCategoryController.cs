@@ -23,22 +23,8 @@ namespace E_Book_eproject.Controllers
         }
         [ValidateAntiForgeryToken]
         [HttpPost]
-        public IActionResult store(SubCategory sub, IFormFile Image)
-        {
-            string imagename = DateTime.Now.ToString("yymmddhhmmss");//2410152541245412
-            imagename += "-" + Path.GetFileName(Image.FileName);//2410152541245412-sonata.jpg
-
-            var imagepath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/Uploads");
-            var imageValue = Path.Combine(imagepath, imagename);
-
-            using (var stream = new FileStream(imageValue, FileMode.Create))
-            {
-                Image.CopyTo(stream);
-            }
-
-            var dbimage = Path.Combine("/Uploads", imagename);//Uploads/2410152541245412-sonata.jpg
-
-            sub.Image = dbimage;
+        public IActionResult store(SubCategory sub)
+        {         
 
             db.SubCategories.Add(sub);
             db.SaveChanges();

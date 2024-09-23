@@ -15,6 +15,8 @@ public partial class Category
 
     public virtual ICollection<CdandDvd> CdandDvds { get; set; } = new List<CdandDvd>();
 
+    public virtual ICollection<Product> Products { get; set; } = new List<Product>();
+
     public virtual ICollection<Stationary> Stationaries { get; set; } = new List<Stationary>();
 
     public virtual ICollection<SubCategory> SubCategories { get; set; } = new List<SubCategory>();

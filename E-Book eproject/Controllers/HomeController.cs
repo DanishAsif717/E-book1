@@ -18,7 +18,7 @@ namespace E_Book_eproject.Controllers
 
         public IActionResult shop()
         {
-            var data = db.Books.Include(b => b.Cat).ToList();
+            var data = db.Products.Include(b => b.Cat).ToList();
             return View(data);
         }
 

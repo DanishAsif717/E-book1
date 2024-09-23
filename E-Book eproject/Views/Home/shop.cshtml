@@ -1,4 +1,4 @@
-﻿@model IEnumerable<E_Book_eproject.Models.Book>
+﻿@model IEnumerable<E_Book_eproject.Models.Product>
 
 @{
     Layout = null;
@@ -129,17 +129,7 @@
         <section class="popular-items latest-padding">
             <div class="container">
                 <div class="row product-btn justify-content-between mb-40">
-                    <div class="properties__button">
-                        <!--Nav Button  -->
-                        <nav>
-                            <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">NewestArrivals</a>
-                                <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Price high to low</a>
-                                <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false"> Most populer </a>
-                            </div>
-                        </nav>
-                        <!--End Nav Button  -->
-                    </div>
+                    <partial name="Categories" />
                     <!-- Grid and List view -->
                     <div class="grid-list-view">
                     </div>
@@ -162,32 +152,27 @@
                     <!-- card one -->
                     <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                         <div class="row">
-
-                            @foreach (var item in Model) {
-
-                         
-                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
-                                <div class="single-popular-items mb-50 text-center">
-                                    <div class="popular-img">
-                                        <img src="@item.Image" alt="">
-                                        <div class="img-cap">
-                                            <span>Add to cart</span>
+                            @foreach (var item in Model)
+                            {
+                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+                                    <div class="single-popular-items mb-50 text-center">
+                                        <div class="popular-img">
+                                            <!-- Inline style to set image height -->
+                                            <img src="@item.Image" alt="" style="height: 300px; width: auto;">
+                                            <div class="img-cap">
+                                                <span>Add to cart</span>
+                                            </div>
+                                            <div class="favorit-items">
+                                                <span class="flaticon-heart"></span>
+                                            </div>
                                         </div>
-                                        <div class="favorit-items">
-                                            <span class="flaticon-heart"></span>
-                                        </div>
-                                    </div>
-                                    <div class="popular-caption">
+                                        <div class="popular-caption">
                                             <h3><a asp-action="productdetail" asp-route-id="@item.Id" asp-controller="Book">@item.Name</a></h3>
-                                        <span>@item.Price</span>
+                                            <span>@item.Price</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                           }
-
-
-
-
+                            }
                         </div>
                     </div>
                     <!-- Card two -->

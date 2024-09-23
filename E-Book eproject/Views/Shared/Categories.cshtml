@@ -1,0 +1,22 @@
+﻿@{
+    E_Book_eproject.Models.EProjectContext db = new E_Book_eproject.Models.EProjectContext();
+}
+
+
+<div class="properties__button">
+    <!--Nav Button  -->
+    <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" asp-action="Shop" asp-controller="Home" role="tab" aria-controls="nav-home" aria-selected="true">All</a>
+
+
+
+
+            @foreach (var cats in db.Categories.ToList())
+            {
+                <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" asp-action="Shop" asp-controller="Home" asp-route-catid="@cats.Id" role="tab" aria-controls="nav-profile" aria-selected="false">@cats.Name</a>
+            }
+        </div>
+    </nav>
+    <!--End Nav Button  -->
+</div>

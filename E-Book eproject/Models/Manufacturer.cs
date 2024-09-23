@@ -12,6 +12,4 @@ public partial class Manufacturer
     public string Acronym { get; set; } = null!;
 
     public string? ContactInfo { get; set; }
-
-    public virtual ICollection<Product> Products { get; set; } = new List<Product>();
 }

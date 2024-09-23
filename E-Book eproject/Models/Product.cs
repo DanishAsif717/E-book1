@@ -5,29 +5,29 @@ namespace E_Book_eproject.Models;
 
 public partial class Product
 {
-    public int ProductId { get; set; }
+    public int Id { get; set; }
 
-    public string ProductCode { get; set; } = null!;
+    public string? Author { get; set; }
 
-    public string Category { get; set; } = null!;
+    public string? Name { get; set; }
 
-    public string SubCategory { get; set; } = null!;
+    public string? Price { get; set; }
 
-    public int? ManufacturerId { get; set; }
-
-    public string ProductName { get; set; } = null!;
+    public string? Lounch { get; set; }
 
     public string? Description { get; set; }
 
-    public decimal Price { get; set; }
+    public string? Image { get; set; }
 
-    public int Stock { get; set; }
+    public string? Stock { get; set; }
 
-    public DateTime? ReleaseDate { get; set; }
+    public int CatId { get; set; }
 
-    public string? Version { get; set; }
+    public int SubId { get; set; }
 
-    public virtual Manufacturer? Manufacturer { get; set; }
+    public DateTime CreatedBy { get; set; }
 
-    public virtual ICollection<OrderDetail> OrderDetails { get; set; } = new List<OrderDetail>();
+    public virtual Category Cat { get; set; } = null!;
+
+    public virtual SubCategory Sub { get; set; } = null!;
 }

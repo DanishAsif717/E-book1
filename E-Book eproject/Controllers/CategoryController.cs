@@ -24,7 +24,9 @@ namespace E_Book_eproject.Controllers
 		{
 			db.Categories.Add(category);
 			db.SaveChanges();
-			return RedirectToAction("index");
+            TempData["SuccessMessage"] = "Category successfully inserted!";
+
+            return RedirectToAction("index");
 		}
 		
 

@@ -227,10 +227,6 @@ public partial class EProjectContext : DbContext
             entity.HasOne(d => d.Order).WithMany(p => p.OrderDetails)
                 .HasForeignKey(d => d.OrderId)
                 .HasConstraintName("FK__OrderDeta__Order__5EBF139D");
-
-            entity.HasOne(d => d.Product).WithMany(p => p.OrderDetails)
-                .HasForeignKey(d => d.ProductId)
-                .HasConstraintName("FK__OrderDeta__Produ__5FB337D6");
         });
 
         modelBuilder.Entity<Payment>(entity =>
@@ -255,34 +251,30 @@ public partial class EProjectContext : DbContext
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.HasKey(e => e.ProductId).HasName("PK__Products__B40CC6EDD6A44F23");
+            entity.HasKey(e => e.Id).HasName("PK__Products__3214EC075F681A3D");
 
-            entity.HasIndex(e => e.ProductCode, "UQ__Products__2F4E024F559D8E04").IsUnique();
+            entity.Property(e => e.Author).HasColumnName("author");
+            entity.Property(e => e.CatId).HasColumnName("cat_id");
+            entity.Property(e => e.CreatedBy)
+                .HasDefaultValueSql("(getdate())")
+                .HasColumnType("datetime")
+                .HasColumnName("created_by");
+            entity.Property(e => e.Description).HasColumnName("description");
+            entity.Property(e => e.Image).HasColumnName("image");
+            entity.Property(e => e.Lounch).HasColumnName("lounch");
+            entity.Property(e => e.Name).HasColumnName("name");
+            entity.Property(e => e.Price).HasColumnName("price");
+            entity.Property(e => e.SubId).HasColumnName("sub_id");
 
-            entity.Property(e => e.ProductId).HasColumnName("ProductID");
-            entity.Property(e => e.Category)
-                .HasMaxLength(50)
-                .IsUnicode(false);
-            entity.Property(e => e.Description).HasColumnType("text");
-            entity.Property(e => e.ManufacturerId).HasColumnName("ManufacturerID");
-            entity.Property(e => e.Price).HasColumnType("decimal(10, 2)");
-            entity.Property(e => e.ProductCode)
-                .HasMaxLength(7)
-                .IsUnicode(false);
-            entity.Property(e => e.ProductName)
-                .HasMaxLength(255)
-                .IsUnicode(false);
-            entity.Property(e => e.ReleaseDate).HasColumnType("date");
-            entity.Property(e => e.SubCategory)
-                .HasMaxLength(50)
-                .IsUnicode(false);
-            entity.Property(e => e.Version)
-                .HasMaxLength(20)
-                .IsUnicode(false);
+            entity.HasOne(d => d.Cat).WithMany(p => p.Products)
+                .HasForeignKey(d => d.CatId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Products_Tocategory");
 
-            entity.HasOne(d => d.Manufacturer).WithMany(p => p.Products)
-                .HasForeignKey(d => d.ManufacturerId)
-                .HasConstraintName("FK__Products__Manufa__628FA481");
+            entity.HasOne(d => d.Sub).WithMany(p => p.Products)
+                .HasForeignKey(d => d.SubId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Products_ToSubcategory");
         });
 
         modelBuilder.Entity<Stationary>(entity =>
@@ -319,8 +311,6 @@ public partial class EProjectContext : DbContext
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("created_by");
-            entity.Property(e => e.Description).HasColumnName("description");
-            entity.Property(e => e.Image).HasColumnName("image ");
 
             entity.HasOne(d => d.Cat).WithMany(p => p.SubCategories)
                 .HasForeignKey(d => d.CatId)
