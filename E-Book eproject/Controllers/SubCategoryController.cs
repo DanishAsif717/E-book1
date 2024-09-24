@@ -39,6 +39,13 @@ namespace E_Book_eproject.Controllers
         public IActionResult delete(int id )
 
         {
+            var prds=  db.Products.Where(u=> u.SubId == id).ToList();
+            foreach(var item in prds)
+            {
+                db.Products.Remove(item);   
+                db.SaveChanges();
+            }
+
          var data =   db.SubCategories.Find(id);
             db.SubCategories.Remove(data);
             db.SaveChanges();

@@ -1,5 +1,6 @@
 ﻿using E_Book_eproject.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace E_Book_eproject.Controllers
 {
@@ -11,13 +12,26 @@ namespace E_Book_eproject.Controllers
             var data  = db.Stationaries.ToList();
             return View(data);
         }
-        public IActionResult Create()
+        public ActionResult create()
         {
+            ViewBag.CatId = new SelectList(db.Categories, "Id", "Name");
+
+            ViewBag.SubId = new SelectList(Enumerable.Empty<SelectListItem>(), "Id", "Name"); // Empty initially
+
             return View();
+        }
+        [HttpGet]
+        public JsonResult GetSubCategories(int catId)
+        {
+            var subCategories = db.SubCategories
+                                        .Where(sc => sc.CatId == catId)
+                                        .Select(sc => new { sc.Id, sc.Name })
+                                        .ToList();
+            return Json(subCategories);
         }
 
         [HttpPost]
-        public IActionResult Store(Stationary stationary ,IFormFile Image)
+        public IActionResult Store(Product product ,IFormFile Image)
         {
 
             string imagename = DateTime.Now.ToString("yyyyMMddHHmmss") + "-" + Path.GetFileName(Image.FileName);
@@ -28,11 +42,13 @@ namespace E_Book_eproject.Controllers
             }
 
             var dbimage = Path.Combine("/Uploads", imagename);
-            stationary.Image = dbimage; // Set the image path in the user object
+            product.Image = dbimage; // Set the image path in the user object
 
-            db.Stationaries.Add(stationary);
+            db.Products.Add(product);
             db.SaveChanges();
-            return RedirectToAction("Index");
+             TempData["SuccessMessage"] = "Product successfully inserted!";
+                ViewBag.CatId = new SelectList(db.Categories, "Id", "Name");
+                return RedirectToAction("Index");
         }
 
     }

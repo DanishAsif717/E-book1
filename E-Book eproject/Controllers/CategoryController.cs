@@ -42,6 +42,21 @@ namespace E_Book_eproject.Controllers
            
             if (cat != null)
             {
+                var prds = db.Products.Where(u => u.SubId == cat.Id).ToList();
+                var subcats = db.SubCategories.Where(u => u.CatId == cat.Id).ToList();
+                foreach (var item in prds)
+                {
+
+                    db.Products.Remove(item);
+                    db.SaveChanges();
+                }
+                  foreach (var item in subcats)
+                {
+
+                    db.SubCategories.Remove(item);
+                    db.SaveChanges();
+                }
+
                 db.Categories.Remove(cat);
                 db.SaveChanges();
 

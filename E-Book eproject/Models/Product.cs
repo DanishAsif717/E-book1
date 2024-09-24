@@ -21,13 +21,13 @@ public partial class Product
 
     public string? Stock { get; set; }
 
-    public int CatId { get; set; }
+    public int? CatId { get; set; }
 
-    public int SubId { get; set; }
+    public int? SubId { get; set; }
 
     public DateTime CreatedBy { get; set; }
 
-    public virtual Category Cat { get; set; } = null!;
+    public virtual Category? Cat { get; set; }
 
-    public virtual SubCategory Sub { get; set; } = null!;
+    public virtual SubCategory? Sub { get; set; }
 }
