@@ -1,6 +1,7 @@
 ﻿using E_Book_eproject.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace E_Book_eproject.Controllers
 {
@@ -67,6 +68,18 @@ namespace E_Book_eproject.Controllers
             }
         }
 
+        public IActionResult ProductDetails(int id)
+        {
+            var data = db.Products
+                .Include(p => p.Cat) 
+                .Include(p => p.Sub) 
+                .FirstOrDefault(p => p.Id == id); 
+            if (data == null)
+            {
+                return NotFound(); // Ya apna custom error page return karain
+            }
+            return View(data);
+        }
 
 
 
