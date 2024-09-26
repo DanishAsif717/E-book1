@@ -7,20 +7,27 @@
       "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_A0HEMGG_SQLEXPRESS/e_project/sa/SqlTable/dbo.Cart.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\home\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +37,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Auth\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Auth\\SignUp.cshtml",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Auth\\SignUp.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Auth\\SignUp.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T15:51:25.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "E-Book eproject\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAEcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:46:39.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Cart [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_A0HEMGG_SQLEXPRESS/e_project/sa/SqlTable/dbo.Cart.sql",
+              "ToolTip": "dbo.Cart [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-26T15:45:27.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +87,7 @@
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\CartController.cs",
               "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
               "RelativeToolTip": "E-Book eproject\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAmwA0AAAAxAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T16:35:05.667Z",
               "EditorCaption": ""
@@ -64,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "shop.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Home\\shop.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Home\\shop.cshtml",
@@ -72,29 +115,18 @@
               "RelativeToolTip": "E-Book eproject\\Views\\Home\\shop.cshtml",
               "ViewState": "AQIAAJkAAAAAAAAAAAAAAKkAAAB+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-25T15:43:06.534Z"
+              "WhenOpened": "2024-09-25T15:43:06.534Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "E-Book eproject\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T15:39:01.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\ProductController.cs",
               "RelativeToolTip": "E-Book eproject\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAqwE4AAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAqwEcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T09:34:44.346Z",
               "EditorCaption": ""

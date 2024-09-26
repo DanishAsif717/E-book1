@@ -41,7 +41,7 @@
                 <dd class="col-sm-8">@Html.DisplayFor(model => model.Description)</dd>
             </dl>
             <div class="mt-3">
-                <form asp-action="AddToCart" method="post">
+                <form asp-action="AddToCart" asp-controller="Cart" method="post">
                     <input type="hidden" name="ProductId" value="@Model.Id" />
                     <button type="submit" class="btn btn-primary btn-lg">Add to Cart</button>
                     <a asp-action="Index" class="btn btn-primary btn-lg">Back to List</a>

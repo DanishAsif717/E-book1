@@ -11,11 +11,7 @@ namespace E_Book_eproject.Controllers
     {
 
         EProjectContext db = new EProjectContext();
-        public IActionResult create()
-        {
-
-            return View();
-        }
+       
         public IActionResult Delete(int id)
         {
             var data = db.Users.Find(id);
@@ -29,10 +25,14 @@ namespace E_Book_eproject.Controllers
             var data = db.Users.ToList();   
             return View(data);
         }
+        public IActionResult SignUp()
+        {
+            return View();
+        }
 
 
         [HttpPost]
-        public IActionResult store(User user, IFormFile Image)
+        public IActionResult SignUp(User user, IFormFile Image)
         {
             string imagename = DateTime.Now.ToString("yymmddhhmmss");//2410152541245412
             imagename += "-" + Path.GetFileName(Image.FileName);//2410152541245412-sonata.jpg
@@ -48,7 +48,7 @@ namespace E_Book_eproject.Controllers
             var dbimage = Path.Combine("/Uploads", imagename);//Uploads/2410152541245412-sonata.jpg
 
             user.Image = dbimage;
-            user.Role = 1;
+            user.Role = 2;
 
 
             var hasher = new PasswordHasher<string>();
@@ -56,7 +56,7 @@ namespace E_Book_eproject.Controllers
             user.Password = hasherPassword;
             db.Users.Add(user);
             db.SaveChanges();
-            return RedirectToAction("Index" ,"Admin");
+            return RedirectToAction("Login");
         }
         public IActionResult Login()
         {
@@ -69,6 +69,7 @@ namespace E_Book_eproject.Controllers
         {
             bool isAuthenticated = false;
             string controller = "";
+            string action = "index";
             ClaimsIdentity identity = null;
 
             var Checkuser = db.Users.FirstOrDefault(a => a.Email == user.Email);
@@ -101,7 +102,7 @@ namespace E_Book_eproject.Controllers
                     identity = new ClaimsIdentity(new[]
                     {
                 new Claim(ClaimTypes.Name, Checkuser.Name),
-                new Claim(ClaimTypes.Role, "Student"),
+                new Claim(ClaimTypes.Role, "User"),
                 new Claim(ClaimTypes.Sid ,Checkuser.Id.ToString() ),
                 new Claim(ClaimTypes.Email ,Checkuser.Email),
 
@@ -109,7 +110,8 @@ namespace E_Book_eproject.Controllers
                     CookieAuthenticationDefaults.AuthenticationScheme);
 
                     isAuthenticated = true;
-                    controller = "Home";
+                    controller = "Product";
+                     action = "ProductDetails";
                     //HttpContext.Session.SetString("UserId", Checkuser.Id.ToString());
 
                 }
@@ -127,7 +129,7 @@ namespace E_Book_eproject.Controllers
                     // User ID ko session mein store karna
                     //HttpContext.Session.SetString("UserId", Checkuser.Id.ToString());
 
-                    return RedirectToAction("Index", controller);
+                    return RedirectToAction(action, controller);
                 }
                 else
                 {

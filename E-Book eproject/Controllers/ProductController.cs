@@ -1,4 +1,5 @@
 ﻿using E_Book_eproject.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -68,6 +69,7 @@ namespace E_Book_eproject.Controllers
             }
         }
 
+        [Authorize(Roles = "User")]
         public IActionResult ProductDetails(int id)
         {
             var data = db.Products
