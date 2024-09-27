@@ -16,11 +16,21 @@ namespace E_Book_eproject.Controllers
             return View();
         }
 
-        public IActionResult shop()
+        public IActionResult shop(int ? catid)
         {
-            var data = db.Products.Include(b => b.Cat).ToList();
+            List<Product> data;
+            if (catid.HasValue)
+            {
+                 data = db.Products.Where(b => b.CatId == catid).ToList();
+
+            }
+            else
+            {
+                data = db.Products.ToList();
+            }
             return View(data);
         }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

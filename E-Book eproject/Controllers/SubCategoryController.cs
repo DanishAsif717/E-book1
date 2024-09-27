@@ -46,7 +46,14 @@ namespace E_Book_eproject.Controllers
                 db.SaveChanges();
             }
 
-         var data =   db.SubCategories.Find(id);
+            var cat = db.Stationaries.Where(u => u.CatId == id).ToList();
+            foreach (var item in cat)
+            {
+                db.Stationaries.Remove(item);
+                db.SaveChanges();
+            }
+
+            var data =   db.SubCategories.Find(id);
             db.SubCategories.Remove(data);
             db.SaveChanges();
             return RedirectToAction("Index");

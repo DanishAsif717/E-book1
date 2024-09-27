@@ -67,6 +67,7 @@ namespace E_Book_eproject.Controllers
 
                 return View();
             }
+            return RedirectToAction("Index");
         }
 
         [Authorize(Roles = "User")]

@@ -565,10 +565,6 @@
       "PackagePath": "staticwebassets\\Uploads\\20240924124510-243310033338-Danish.jfif"
     },
     {
-      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\20240924124838-243310033338-Danish.jfif",
-      "PackagePath": "staticwebassets\\Uploads\\20240924124838-243310033338-Danish.jfif"
-    },
-    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\240616050613-cd (1).jpg",
       "PackagePath": "staticwebassets\\Uploads\\240616050613-cd (1).jpg"
     },
@@ -641,10 +637,6 @@
       "PackagePath": "staticwebassets\\Uploads\\243308023321-blog7.jpg"
     },
     {
-      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\243310033338-Danish.jfif",
-      "PackagePath": "staticwebassets\\Uploads\\243310033338-Danish.jfif"
-    },
-    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\243608023641-blog 9.jpg",
       "PackagePath": "staticwebassets\\Uploads\\243608023641-blog 9.jpg"
     },
@@ -661,8 +653,20 @@
       "PackagePath": "staticwebassets\\Uploads\\244010034018-blog_4.png"
     },
     {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\244027044018-b11.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\244027044018-b11.jpg"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\244027044057-b12.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\244027044057-b12.jpg"
+    },
+    {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\244107064155-blog7.jpg",
       "PackagePath": "staticwebassets\\Uploads\\244107064155-blog7.jpg"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\244527044548-b12.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\244527044548-b12.jpg"
     },
     {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\245024125017-241407051427-blog 55.jpg",
@@ -679,6 +683,10 @@
     {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\245618045643-sa (1).jpg",
       "PackagePath": "staticwebassets\\Uploads\\245618045643-sa (1).jpg"
+    },
+    {
+      "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\Uploads\\245626085625-1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\245626085625-1.jpg"
     },
     {
       "Id": "D:\\E-book1\\E-Book eproject\\wwwroot\\User\\assets\\css\\all.css",

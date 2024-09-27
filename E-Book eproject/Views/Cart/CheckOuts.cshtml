@@ -1,0 +1,33 @@
+﻿@model IEnumerable<E_Book_eproject.Models.Cart>
+
+@{
+    ViewData["Title"] = "CheckOut";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CheckOut</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Prodzzzuct</th>
+            <th>Quanzzztity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td> 
+                <td>@item.Quantity</td> 
+                <td>@item.Price</td> 
+                <td>@(item.Quantity * item.Price)</td>      </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <h4>Total Amount: @Model.Sum(i => i.Quantity * i.Price)</h4>
+</div>

@@ -19,31 +19,56 @@ namespace E_Book_eproject.Controllers
                 db.Carts.Add(cart);
                 db.SaveChanges();
 
-                return RedirectToAction("Shop" , "Home");
+                return RedirectToAction("CheckOuts");
             }
             else
             {
                 return RedirectToAction("Login", "Auth"); 
             }
+
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-        public IActionResult CheckOut(string cartId) 
+        public IActionResult CheckOuts()
         {
-            var data= db.Orders.ToList();
-            return View(data);
+            var userId = User.FindFirstValue(ClaimTypes.Sid);
+
+            if (userId != null)
+            {
+                int UserId = Convert.ToInt32(userId);
+
+                // Joining Cart with Product using ProductId
+                var cartItems = (from cart in db.Carts
+                                 join product in db.Products
+                                 on cart.ProductId equals product.Id
+                                 where cart.UserId == UserId
+                                 select new
+                                 {
+                                     cart.Id,
+                                     cart.Quantity,
+                                     product.Name,
+                                     product.Price,
+                                     product.Image
+                                 }).ToList();
+
+                // Pass the data to the view
+                return View(cartItems);
+            }
+            else
+            {
+                return RedirectToAction("Login", "Auth");
+            }
         }
+
+
+
+
+
+
+
+
+
+
+
     }
 }

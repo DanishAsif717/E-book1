@@ -110,8 +110,8 @@ namespace E_Book_eproject.Controllers
                     CookieAuthenticationDefaults.AuthenticationScheme);
 
                     isAuthenticated = true;
-                    controller = "Product";
-                     action = "ProductDetails";
+                    controller = "Home";
+                     action = "Shop";
                     //HttpContext.Session.SetString("UserId", Checkuser.Id.ToString());
 
                 }
