@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "D:\\E-book1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\cart\\checkouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\cart\\checkouts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\shared\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\stationarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\stationarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,44 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartViewModel.cs",
-              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs",
-              "RelativeDocumentMoniker": "E-Book eproject\\Models\\CartViewModel.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs",
-              "RelativeToolTip": "E-Book eproject\\Models\\CartViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:26:36.127Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CheckOuts.cshtml",
-              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "RelativeToolTip": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBIAAAAMAAAA",
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Shared\\Admin.cshtml",
+              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Shared\\Admin.cshtml",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Shared\\Admin.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Shared\\Admin.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADABAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T14:25:59.524Z",
+              "WhenOpened": "2024-09-30T16:45:44.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
-              "RelativeToolTip": "E-Book eproject\\Controllers\\CartController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAuwDEAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:52:00.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Product\\Index.cshtml",
@@ -107,23 +91,71 @@
               "RelativeToolTip": "E-Book eproject\\Views\\Product\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-27T11:43:32.74Z"
+              "WhenOpened": "2024-09-30T16:45:25.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\BookController.cs",
+              "RelativeToolTip": "E-Book eproject\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:26:16.241Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "StationaryController.cs",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\StationaryController.cs",
+              "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\StationaryController.cs",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\StationaryController.cs",
+              "RelativeToolTip": "E-Book eproject\\Controllers\\StationaryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T16:26:10.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Product\\create.cshtml",
+              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Product\\create.cshtml",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Product\\create.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Product\\create.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:14:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Product\\edit.cshtml",
+              "RelativeDocumentMoniker": "E-Book eproject\\Views\\Product\\edit.cshtml",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Product\\edit.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Product\\edit.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T16:06:37.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\ProductController.cs",
               "RelativeToolTip": "E-Book eproject\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAC8AAAARAAAA",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAiwLkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T11:41:16.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Models\\Product.cs",
@@ -135,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\HomeController.cs",
@@ -147,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Categories.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Shared\\Categories.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Shared\\Categories.cshtml",
@@ -159,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "shop.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Home\\shop.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Home\\shop.cshtml",
@@ -171,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SubCategoryController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\SubCategoryController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\SubCategoryController.cs",
@@ -183,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductDetails.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Product\\ProductDetails.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Product\\ProductDetails.cshtml",
