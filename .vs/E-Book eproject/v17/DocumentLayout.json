@@ -66,12 +66,11 @@
               "Title": "CartViewModel.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Models\\CartViewModel.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs*",
-              "RelativeToolTip": "E-Book eproject\\Models\\CartViewModel.cs*",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs",
+              "RelativeToolTip": "E-Book eproject\\Models\\CartViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T11:26:36.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T11:26:36.127Z"
             },
             {
               "$type": "Document",
@@ -79,9 +78,9 @@
               "Title": "CheckOuts.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml*",
-              "RelativeToolTip": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml*",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCIAAAAAAAAA",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
+              "RelativeToolTip": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T14:25:59.524Z",
               "EditorCaption": ""
@@ -92,12 +91,11 @@
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs*",
-              "RelativeToolTip": "E-Book eproject\\Controllers\\CartController.cs*",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
+              "RelativeToolTip": "E-Book eproject\\Controllers\\CartController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAuwDEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:52:00.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:52:00.131Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "E-Book eproject\\Models\\Product.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAuwA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:34:39.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:34:39.461Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Project book.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Project book.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\images\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\client-image1.png",
+      "PackagePath": "staticwebassets\\images\\client-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\client-image2.png",
+      "PackagePath": "staticwebassets\\images\\client-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\client-image3.png",
+      "PackagePath": "staticwebassets\\images\\client-image3.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\client-image4.png",
+      "PackagePath": "staticwebassets\\images\\client-image4.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\client-image5.png",
+      "PackagePath": "staticwebassets\\images\\client-image5.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\curly-divider.svg",
+      "PackagePath": "staticwebassets\\images\\curly-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\default.png",
+      "PackagePath": "staticwebassets\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\device.png",
+      "PackagePath": "staticwebassets\\images\\device.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\images\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\item.png",
+      "PackagePath": "staticwebassets\\images\\item.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\item1.png",
+      "PackagePath": "staticwebassets\\images\\item1.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\item3.png",
+      "PackagePath": "staticwebassets\\images\\item3.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\item4.png",
+      "PackagePath": "staticwebassets\\images\\item4.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\item5.png",
+      "PackagePath": "staticwebassets\\images\\item5.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\leaf.png",
+      "PackagePath": "staticwebassets\\images\\leaf.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\main-banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\main-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\main-banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\main-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\ns-arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\ns-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\pattern1.png",
+      "PackagePath": "staticwebassets\\images\\pattern1.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\pattern2.png",
+      "PackagePath": "staticwebassets\\images\\pattern2.png"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\post-img3.jpg",
+      "PackagePath": "staticwebassets\\images\\post-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\single-image.jpg",
+      "PackagePath": "staticwebassets\\images\\single-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item1.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item2.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item3.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item4.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item5.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item6.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item7.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\images\\tab-item8.jpg",
+      "PackagePath": "staticwebassets\\images\\tab-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\js\\slideNav.js",
+      "PackagePath": "staticwebassets\\js\\slideNav.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\js\\slideNav.min.js",
+      "PackagePath": "staticwebassets\\js\\slideNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\XC\\Downloads\\Compressed\\business-template\\E-Project book\\E-Project book\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Project book.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Project book.props",
+      "PackagePath": "build\\E-Project book.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Project book.props",
+      "PackagePath": "buildMultiTargeting\\E-Project book.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Project book.props",
+      "PackagePath": "buildTransitive\\E-Project book.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

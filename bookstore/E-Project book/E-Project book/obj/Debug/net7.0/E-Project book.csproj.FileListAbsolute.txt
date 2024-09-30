@@ -1,0 +1,90 @@
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\appsettings.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.staticwebassets.runtime.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.exe
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.deps.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.runtimeconfig.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.dll
+C:\Users\asp\Downloads\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.pdb
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.AssemblyInfoInputs.cache
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.AssemblyInfo.cs
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.csproj.CoreCompileInputs.cache
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.RazorAssemblyInfo.cache
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.RazorAssemblyInfo.cs
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.E-Project book.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Project book.props
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Project book.props
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Project book.props
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\bundle\E-Project book.styles.css
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\projectbundle\E-Project book.bundle.scp.css
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.dll
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\refint\E-Project book.dll
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.pdb
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.genruntimeconfig.cache
+C:\Users\asp\Downloads\E-Project book\E-Project book\obj\Debug\net7.0\ref\E-Project book.dll
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\appsettings.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.staticwebassets.runtime.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.exe
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.deps.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.runtimeconfig.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.dll
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.pdb
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.AssemblyInfo.cs
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.RazorAssemblyInfo.cache
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.RazorAssemblyInfo.cs
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.E-Project book.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Project book.props
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Project book.props
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Project book.props
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\bundle\E-Project book.styles.css
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\projectbundle\E-Project book.bundle.scp.css
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.dll
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\refint\E-Project book.dll
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.pdb
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.genruntimeconfig.cache
+C:\Users\asp\Desktop\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\ref\E-Project book.dll
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\appsettings.Development.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\appsettings.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.staticwebassets.runtime.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.exe
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.deps.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.runtimeconfig.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.dll
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\bin\Debug\net7.0\E-Project book.pdb
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.AssemblyInfoInputs.cache
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.AssemblyInfo.cs
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.csproj.CoreCompileInputs.cache
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.MvcApplicationPartsAssemblyInfo.cache
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.RazorAssemblyInfo.cache
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.RazorAssemblyInfo.cs
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.E-Project book.Microsoft.AspNetCore.StaticWebAssets.props
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Project book.props
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Project book.props
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Project book.props
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.pack.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.build.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\staticwebassets.development.json
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\bundle\E-Project book.styles.css
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\scopedcss\projectbundle\E-Project book.bundle.scp.css
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.dll
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\refint\E-Project book.dll
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.pdb
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\E-Project book.genruntimeconfig.cache
+C:\xampp\tomcat\bookstore\E-Project book\E-Project book\obj\Debug\net7.0\ref\E-Project book.dll

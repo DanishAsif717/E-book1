@@ -1,0 +1,1461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\E-Project book.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Project book.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\Doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\Doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Doc\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\index.html",
+      "PackagePath": "staticwebassets\\Doc\\index.html"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\Doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\Doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\lightslider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lightslider.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\price_rangs.css",
+      "PackagePath": "staticwebassets\\assets\\css\\price_rangs.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\slick-theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick-theme.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\style.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.map"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\assets\\fonts\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\flaticon.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flaticon.html"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\about\\about_lft.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about_lft.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\about\\about_right.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\about_right.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\adapt_icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\adapt_icon\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\1.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\adapt_icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\adapt_icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\adapt_icon\\3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\author\\author_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\author\\author_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\author\\author_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\author\\author_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\banner\\img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\img.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\c1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\c2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\c3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\c3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\card1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\card1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\card2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\card2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\choce_watch1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\choce_watch1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\choce_watch2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\choce_watch2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery01.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery4.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery4.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery5.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\new_product1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\new_product1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\new_product2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\new_product2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\new_product3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\new_product3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\popular1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\popular1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\popular2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\popular2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\popular3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\popular3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\popular4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\popular4.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\popular5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\popular5.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\popular6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\popular6.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\sectin_bg1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\sectin_bg1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\gallery\\vidoe_more.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\vidoe_more.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\Industries_hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\Industries_hero.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\about_hero.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\about_hero.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\category.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\category.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\contact_hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\contact_hero.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\gallery_hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\gallery_hero.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\hero_man.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\hero_man.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\services_hero.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\services_hero.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\hero\\watch.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hero\\watch.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\our_blog\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\our_blog\\blog-img1.jpg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\assets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\10.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\4.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\5.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\6.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\7.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\8.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\prising\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\prising\\9.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\service_icon_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\service_icon_2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\service_icon_3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\service\\service_icon_bg_1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\service\\service_icon_bg_1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\team\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\team\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\2.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\team\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\3.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\img\\testmonial\\Homepage_testi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testmonial\\Homepage_testi.png"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\cells-by-column.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cells-by-column.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery-1.12.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-1.12.1.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.downCount.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.downCount.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.paroller.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.paroller.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\lightslider.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lightslider.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\one-page-nav-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\one-page-nav-min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\price_rangs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\price_rangs.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\stellar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\stellar.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\swiper.jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper.jquery.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\swiper_custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper_custom.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_about_us.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_about_us.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_banner.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_best-product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_best-product.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_best_seller.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_best_seller.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_blog_page.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_blog_page.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_button.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_category.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_category.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_client_logo.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_client_logo.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_client_review.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_client_review.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_color.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_color.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_confirmation_part.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_confirmation_part.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_copyright_part.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_copyright_part.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_cource_details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_cource_details.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_cta_part.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_cta_part.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_feature_part.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_feature_part.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_gallery.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_h1-hero.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_h1-hero.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_headerMenu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_headerMenu.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_instagram_photo.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_instagram_photo.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_latest_products.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_latest_products.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_new-product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_new-product.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_new_arrival.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_new_arrival.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_our_offer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_our_offer.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_overlay.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_overlay.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_popular-items.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_popular-items.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_product.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_product_list.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_product_list.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_recent.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_recent.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_review.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_review.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_services.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_shipping_details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_shipping_details.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_shop-method.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_shop-method.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_single_blog.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_single_blog.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_single_product.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_single_product.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_special_cource.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_special_cource.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_subscribe_part.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_subscribe_part.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_team.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_trending_items.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_trending_items.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_video_area.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_video_area.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\_view-list-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_view-list-grid.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\xampp\\tomcat\\bookstore\\E-Project book\\E-Project book\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E-Project book.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.E-Project book.props",
+      "PackagePath": "build\\E-Project book.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Project book.props",
+      "PackagePath": "buildMultiTargeting\\E-Project book.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.E-Project book.props",
+      "PackagePath": "buildTransitive\\E-Project book.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

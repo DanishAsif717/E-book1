@@ -1,0 +1,30 @@
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\appsettings.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\E-Project book.staticwebassets.runtime.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\E-Project book.exe
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\E-Project book.deps.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\E-Project book.runtimeconfig.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\E-Project book.dll
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\bin\Debug\net8.0\E-Project book.pdb
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.AssemblyInfoInputs.cache
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.AssemblyInfo.cs
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.csproj.CoreCompileInputs.cache
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.RazorAssemblyInfo.cache
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.RazorAssemblyInfo.cs
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets\msbuild.E-Project book.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Project book.props
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Project book.props
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Project book.props
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\scopedcss\bundle\E-Project book.styles.css
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\scopedcss\projectbundle\E-Project book.bundle.scp.css
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.dll
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\refint\E-Project book.dll
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.pdb
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\E-Project book.genruntimeconfig.cache
+C:\Users\XC\Downloads\Compressed\business-template\E-Project book\E-Project book\obj\Debug\net8.0\ref\E-Project book.dll
