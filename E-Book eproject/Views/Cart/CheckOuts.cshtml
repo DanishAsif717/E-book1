@@ -1,4 +1,4 @@
-﻿@model IEnumerable<E_Book_eproject.Models.Cart>
+﻿@model IEnumerable<E_Book_eproject.Models.CartViewModel>
 
 @{
     ViewData["Title"] = "CheckOut";
@@ -10,20 +10,28 @@
 <table class="table">
     <thead>
         <tr>
-            <th>Prodzzzuct</th>
-            <th>Quanzzztity</th>
+            <th>Product</th>
+            <th>Quantity</th>
             <th>Price</th>
             <th>Total</th>
+            <th>Action</th> <!-- New column for delete action -->
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model)
         {
             <tr>
-                <td>@item.Name</td> 
-                <td>@item.Quantity</td> 
-                <td>@item.Price</td> 
-                <td>@(item.Quantity * item.Price)</td>      </tr>
+                <td>@item.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+                <td>@(item.Quantity * item.Price)</td>
+                <td>
+                    <form asp-action="DeleteProductFromCart" method="post">
+                        <input type="hidden" name="cartId" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
         }
     </tbody>
 </table>
@@ -31,3 +39,6 @@
 <div>
     <h4>Total Amount: @Model.Sum(i => i.Quantity * i.Price)</h4>
 </div>
+
+
+

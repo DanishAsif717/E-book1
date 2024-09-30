@@ -38,18 +38,21 @@ namespace E_Book_eproject.Controllers
                 int UserId = Convert.ToInt32(userId);
 
                 // Joining Cart with Product using ProductId
+#pragma warning disable CS8629 // Nullable value type may be null.
                 var cartItems = (from cart in db.Carts
                                  join product in db.Products
                                  on cart.ProductId equals product.Id
                                  where cart.UserId == UserId
-                                 select new
+                                 select new CartViewModel
                                  {
-                                     cart.Id,
-                                     cart.Quantity,
-                                     product.Name,
-                                     product.Price,
-                                     product.Image
+                                     Id = cart.Id,
+                                     Quantity = cart.Quantity,
+                                     Name = product.Name,
+                                     Price = (int)product.Price,
+                                     Image = product.Image
                                  }).ToList();
+
+
 
                 // Pass the data to the view
                 return View(cartItems);
@@ -63,6 +66,18 @@ namespace E_Book_eproject.Controllers
 
 
 
+        public IActionResult DeleteProductFromCart(int cartId)
+        {
+            var cartItem = db.Carts.FirstOrDefault(c => c.Id == cartId);
+
+            if (cartItem != null)
+            {
+                db.Carts.Remove(cartItem);
+                db.SaveChanges();
+            }
+
+            return RedirectToAction("CheckOuts"); // Wapas CheckOut page par redirect karen
+        }
 
 
 

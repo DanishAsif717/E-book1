@@ -274,7 +274,7 @@ public partial class EProjectContext : DbContext
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__Products__3214EC075F681A3D");
+            entity.HasKey(e => e.Id).HasName("PK__tmp_ms_x__3214EC07DA71A2D8");
 
             entity.Property(e => e.Author).HasColumnName("author");
             entity.Property(e => e.CatId).HasColumnName("cat_id");

@@ -11,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|solutionrelative:e-book eproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7C85C33E-8614-46FB-929F-AD4E922247E2}|E-Book eproject\\E-Book eproject.csproj|d:\\e-book1\\e-book eproject\\views\\shared\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,15 +62,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "E-Book eproject\\Models\\Cart.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\Cart.cs",
-              "RelativeToolTip": "E-Book eproject\\Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "E-Book eproject\\Models\\CartViewModel.cs",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\CartViewModel.cs*",
+              "RelativeToolTip": "E-Book eproject\\Models\\CartViewModel.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T14:37:20.519Z",
+              "WhenOpened": "2024-09-30T11:26:36.127Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +79,9 @@
               "Title": "CheckOuts.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "RelativeToolTip": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Views\\Cart\\CheckOuts.cshtml*",
+              "RelativeToolTip": "E-Book eproject\\Views\\Cart\\CheckOuts.cshtml*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-27T14:25:59.524Z",
               "EditorCaption": ""
@@ -92,16 +92,16 @@
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs",
-              "RelativeToolTip": "E-Book eproject\\Controllers\\CartController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwD0AAAAAAAAA",
+              "ToolTip": "D:\\E-book1\\E-Book eproject\\Controllers\\CartController.cs*",
+              "RelativeToolTip": "E-Book eproject\\Controllers\\CartController.cs*",
+              "ViewState": "AQIAACAAAAAAAAAAAAAuwDEAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T11:52:00.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Product\\Index.cshtml",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\ProductController.cs",
@@ -125,19 +125,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Models\\Product.cs",
               "ToolTip": "D:\\E-book1\\E-Book eproject\\Models\\Product.cs",
               "RelativeToolTip": "E-Book eproject\\Models\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:34:39.461Z"
+              "WhenOpened": "2024-09-27T11:34:39.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "E-Book eproject\\Controllers\\HomeController.cs",
@@ -185,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductDetails.cshtml",
               "DocumentMoniker": "D:\\E-book1\\E-Book eproject\\Views\\Product\\ProductDetails.cshtml",
               "RelativeDocumentMoniker": "E-Book eproject\\Views\\Product\\ProductDetails.cshtml",
